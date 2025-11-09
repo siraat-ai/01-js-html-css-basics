@@ -73,4 +73,4 @@ Learning to engineer intelligence in systems and discipline in self —
 through **AI, Cloud, and Fitness Science.**  
 
 _"Where technology builds the world — and discipline builds the self."_
-```
+
