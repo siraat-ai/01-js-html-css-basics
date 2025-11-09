@@ -12,6 +12,7 @@ without drifting into data-science research or model-training domains.
 ## 🧠 Specialization Overview  
 ### **Digital Transformation Using AI/ML with Google Cloud**  
 https://www.coursera.org/specializations/digital-transformation-using-ai-ml-with-google-cloud
+
 **Instructor:** Google Cloud Training  
 **Level:** Beginner — Strategic / Conceptual  
 **Duration:** 4 weeks · 10 hrs per week · Self-paced  
