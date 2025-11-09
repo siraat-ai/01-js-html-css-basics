@@ -65,6 +65,7 @@ No downloads — just pure creativity, instantly accessible.
 ## 🧾 End Summary
 This session marks your transition from learner to practitioner. By creating a CodePen account, you unlock a safe, interactive, and accessible space to practice web design hands-on — setting the stage for everything you’ll build in the upcoming modules.
 
+
 ---
 
 ✍️ **Created & Curated by**  
@@ -73,4 +74,3 @@ Learning to engineer intelligence in systems and discipline in self —
 through **AI, Cloud, and Fitness Science.**  
 
 _"Where technology builds the world — and discipline builds the self."_
-
