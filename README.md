@@ -39,3 +39,36 @@ At the end of the course, you’ll create a simple web application where users c
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/js-html-css-basics
+````
+
+2. Open any folder in VS Code or your preferred IDE.
+3. Run HTML files directly in your browser to explore examples and projects.
+
+---
+
+## 🧭 Learning Goals
+
+* Develop a problem-solving mindset for programming.
+* Understand how front-end technologies work together.
+* Gain confidence in reading, writing, and debugging simple web applications.
+
+---
+
+## 📜 License
+
+This repository is for **educational and personal learning** purposes.
+All examples and explanations are original and free to use for study and teaching.
+
+---
+
+✍️ **Created & Curated by**
+**Muhammad Naveed Ishaque**
+*Learning to engineer intelligence in systems and discipline in self —
+through AI, Cloud, and Fitness Science.*
+
+> *"Where technology builds the world — and discipline builds the self."*
+
+```
+
+---
+
