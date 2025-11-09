@@ -1,4 +1,3 @@
-```markdown
 # 🧩 Setting Up Your CodePen Account — Your First Step to Web Creation
 
 ---
