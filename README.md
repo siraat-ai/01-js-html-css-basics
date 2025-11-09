@@ -39,7 +39,7 @@ At the end of the course, you’ll create a simple web application where users c
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/js-html-css-basics
-````
+
 
 2. Open any folder in VS Code or your preferred IDE.
 3. Run HTML files directly in your browser to explore examples and projects.
