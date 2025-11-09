@@ -59,16 +59,16 @@ At the end of the course, you’ll create a simple web application where users c
 This repository is for **educational and personal learning** purposes.
 All examples and explanations are original and free to use for study and teaching.
 
+
 ---
 
-✍️ **Created & Curated by**
-**Muhammad Naveed Ishaque**
-*Learning to engineer intelligence in systems and discipline in self —
-through AI, Cloud, and Fitness Science.*
+✍️ **Created & Curated by**  
+**Muhammad Naveed Ishaque**  
+Learning to engineer intelligence in systems and discipline in self —  
+through **AI, Cloud, and Fitness Science.**  
 
-> *"Where technology builds the world — and discipline builds the self."*
+_"Where technology builds the world — and discipline builds the self."_
 
-```
 
 ---
 
