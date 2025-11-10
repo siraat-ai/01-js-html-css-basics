@@ -235,3 +235,4 @@ finally:
 
 ---
 
+Would you like me to add a **“Mini Practice Lab Section”** at the end (5 short Python tasks) to help you apply these commands practically before starting your courses?
