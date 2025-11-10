@@ -1,10 +1,3 @@
-Perfect 🔥 Muhammad — here’s your **compact, professional Python cheat sheet** — designed *specifically* for your **Cloud + AI mission tasks** (OpenAI API use, automation scripts, and Google Cloud integration).
-
-It’s written to be **fast, practical, and laser-focused** — no fluff, no theory, only what you’ll actually use.
-
----
-
-````markdown
 # 🐍 Python Mini-Course Cheat Sheet  
 ### Targeted for Cloud + AI Automation & OpenAI API Integration  
 
