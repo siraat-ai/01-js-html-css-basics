@@ -228,6 +228,7 @@ finally:
 
 ✍️ **Created & Curated by**
 **Muhammad Naveed Ishaque**
+
 *Learning to engineer intelligence in systems and discipline in self — through AI, Cloud, and Fitness Science.*
 
 > “Where technology builds the world — and discipline builds the self.”
